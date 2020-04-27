@@ -3,6 +3,7 @@
 <img src="figs/spaghetti_nav_logo.svg" width="480" height="200" />
 </p>
 
+
 [pysal/spaghetti](http://pysal.org/spaghetti/)
 =================================
 
